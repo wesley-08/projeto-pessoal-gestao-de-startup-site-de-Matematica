@@ -1,0 +1,24 @@
+*{
+    font-size:xx-large;
+}
+.cor{
+    background-color: rgb(121, 118, 118);
+    color: rgb(0, 0, 0);
+}
+
+button{
+    border-bottom: 20px;
+    color: rgb(255, 255, 255);
+}
+h2{
+    border: solid 5px;
+}
+h1{
+    border: solid 5px;
+}
+h3{
+    border: solid 5px;
+}
+h4{
+    border: solid 5px;
+}
